@@ -1,0 +1,6 @@
+C:\Users\Development-VM-1\Google Drive\DevelopmentPC1\Projects\edX 204x C#\edX204xCSharp\module1\Assignment2\xochess\xochess\bin\Debug\xochess.exe.config
+C:\Users\Development-VM-1\Google Drive\DevelopmentPC1\Projects\edX 204x C#\edX204xCSharp\module1\Assignment2\xochess\xochess\bin\Debug\xochess.exe
+C:\Users\Development-VM-1\Google Drive\DevelopmentPC1\Projects\edX 204x C#\edX204xCSharp\module1\Assignment2\xochess\xochess\bin\Debug\xochess.pdb
+C:\Users\Development-VM-1\Google Drive\DevelopmentPC1\Projects\edX 204x C#\edX204xCSharp\module1\Assignment2\xochess\xochess\obj\Debug\xochess.csprojResolveAssemblyReference.cache
+C:\Users\Development-VM-1\Google Drive\DevelopmentPC1\Projects\edX 204x C#\edX204xCSharp\module1\Assignment2\xochess\xochess\obj\Debug\xochess.exe
+C:\Users\Development-VM-1\Google Drive\DevelopmentPC1\Projects\edX 204x C#\edX204xCSharp\module1\Assignment2\xochess\xochess\obj\Debug\xochess.pdb

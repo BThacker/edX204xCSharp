@@ -10,8 +10,8 @@ namespace students
     {
         static void Main(string[] args)
         {
-            string firstName = "Brandon";
-            string lastName = "Thacker";
+            string firstName = "Mark";
+            string lastName = "NoName";
             string birthDate = "10/10/1901";
             string addressLine1 = "999 Microsoft Way";
             string addressLine2 = "Suite 150";
