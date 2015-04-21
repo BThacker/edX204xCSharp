@@ -3,3 +3,6 @@ C:\Users\Development-VM-1\Google Drive\DevelopmentPC1\Projects\edX 204x C#\edX20
 C:\Users\Development-VM-1\Google Drive\DevelopmentPC1\Projects\edX 204x C#\edX204xCSharp\module1\Assignment4\Arrays\Arrays\bin\Debug\Arrays.pdb
 C:\Users\Development-VM-1\Google Drive\DevelopmentPC1\Projects\edX 204x C#\edX204xCSharp\module1\Assignment4\Arrays\Arrays\obj\Debug\Arrays.exe
 C:\Users\Development-VM-1\Google Drive\DevelopmentPC1\Projects\edX 204x C#\edX204xCSharp\module1\Assignment4\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Development-VM-1\Google Drive\DevelopmentPC1\Projects\edX 204x C#\edX204xCSharp\modules\Assignment4\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Development-VM-1\Google Drive\DevelopmentPC1\Projects\edX 204x C#\edX204xCSharp\modules\Assignment4\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Development-VM-1\Google Drive\DevelopmentPC1\Projects\edX 204x C#\edX204xCSharp\modules\Assignment4\Arrays\Arrays\obj\Debug\Arrays.pdb
